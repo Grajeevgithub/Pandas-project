@@ -1,0 +1,51 @@
+Name,Joining_Date,Profit,Sales,Quantity,Gender,SubCategory,Category,State,Year,Month
+Joseph,2025-04-19 23:17:53,675.48,3214.7344444444443,15.0,Female,Clothing,Home Decor,Florida,2025,April
+Andrea,2025-02-09 11:17:07,767.4,3214.7344444444443,9.0,Male,Furniture,Education,Florida,2025,February
+Jonathan,2025-05-24 16:52:04,397.1180357142854,3116.46,16.75,Male,Furniture,Home Decor,Nevada,2025,May
+John,2022-10-28 20:24:15,709.03,3626.333333333334,2.0,Female,Technology,Fashion,Illinois,2022,October
+Jimmy,2025-04-13 08:12:31,631.44,3214.7344444444443,3.0,Female,Technology,Home Decor,Texas,2025,April
+Melissa,2023-04-12 13:56:49,397.1180357142854,3214.7344444444443,9.0,Male,Office Supplies,Fashion,Nevada,2023,April
+Douglas,2025-01-01 21:48:30,397.1180357142854,3214.7344444444443,9.0,Male,Technology,Home Decor,Nevada,2025,January
+Jenna,2023-12-10 00:59:59,543.0707142857142,2899.1177777777775,9.0,Female,Clothing,Education,Florida,2023,December
+Heather,2023-07-29 04:34:04,543.0707142857142,3214.7344444444443,2.0,Male,Furniture,Electronics,Florida,2023,July
+Sherri,2023-07-14 21:54:03,786.3251785714289,3626.333333333334,13.0,Female,Furniture,Electronics,Florida,2023,July
+Tony,2024-05-04 14:06:02,782.93,3030.73,9.0,Male,Office Supplies,Fashion,Texas,2024,May
+Justin,2024-06-09 23:03:31,543.0707142857142,3214.7344444444443,9.0,Female,Furniture,Fashion,Texas,2024,June
+John,2023-12-27 20:57:21,397.1180357142854,3626.333333333334,9.0,Female,Furniture,Electronics,Nevada,2023,December
+Amber,2025-06-28 22:00:38,543.0707142857142,2899.1177777777775,5.0,Male,Books,Education,Nevada,2025,June
+Bill,2023-06-18 03:29:41,543.0707142857142,3157.52,10.0,Male,Clothing,Education,California,2023,June
+Kimberly,2024-12-15 08:53:00,543.0707142857142,3214.7344444444443,2.0,Male,Books,Home Decor,Ohio,2024,December
+James,2022-08-07 19:09:52,643.35,3214.7344444444443,11.0,Male,Furniture,Fashion,Ohio,2022,August
+Austin,2024-05-21 15:06:14,756.76,3214.7344444444443,9.0,Male,Office Supplies,Education,Ohio,2024,May
+Michael,2022-08-11 07:21:17,543.0707142857142,2899.1177777777775,16.75,Female,Office Supplies,Supplies,California,2022,August
+Logan,2024-05-11 04:52:12,543.0707142857142,3626.333333333334,2.0,Male,Furniture,Home Decor,Ohio,2024,May
+Cynthia,2025-06-24 18:24:50,543.0707142857142,3214.7344444444443,6.0,Female,Technology,Home Decor,Florida,2025,June
+Jessica,2025-01-06 05:58:57,619.62,3626.333333333334,16.75,Male,Books,Electronics,Texas,2025,January
+Amanda,2023-01-31 06:50:46,397.1180357142854,3214.7344444444443,9.0,Male,Furniture,Fashion,Texas,2023,January
+Joseph,2023-02-08 03:13:39,786.3251785714289,3626.333333333334,4.0,Female,Office Supplies,Education,Ohio,2023,February
+Kenneth,2023-02-21 17:30:02,786.3251785714289,3214.7344444444443,16.75,Female,Office Supplies,Education,Nevada,2023,February
+Debra,2022-11-25 07:30:31,543.0707142857142,3626.333333333334,16.75,Male,Books,Home Decor,Illinois,2022,November
+Elizabeth,2022-08-09 12:50:23,543.0707142857142,3214.7344444444443,9.0,Female,Clothing,Fashion,Florida,2022,August
+David,2023-11-08 08:30:25,543.0707142857142,3214.7344444444443,9.0,Male,Furniture,Fashion,California,2023,November
+Heather,2024-06-19 10:39:59,543.0707142857142,3214.7344444444443,11.0,Male,Furniture,Fashion,Illinois,2024,June
+Katherine,2023-11-21 13:35:44,731.64,2899.1177777777775,9.0,Male,Clothing,Electronics,Texas,2023,November
+Glenn,2024-02-03 21:44:51,648.22,2899.1177777777775,9.0,Female,Books,Education,Ohio,2024,February
+Kevin,2024-07-27 12:29:42,580.73,3353.23,9.0,Female,Books,Fashion,California,2024,July
+Valerie,2024-08-24 14:14:45,543.0707142857142,3353.76,3.0,Male,Office Supplies,Electronics,Florida,2024,August
+Jay,2022-07-28 01:00:39,397.1180357142854,2899.1177777777775,15.0,Male,Clothing,Supplies,Texas,2022,July
+Keith,2022-11-23 21:28:11,716.15,2899.1177777777775,3.0,Male,Books,Home Decor,Ohio,2022,November
+Kathleen,2022-07-21 03:23:54,397.1180357142854,3626.333333333334,9.0,Male,Technology,Education,Florida,2022,July
+Rose,2023-08-12 12:55:03,543.0707142857142,3214.7344444444443,9.0,Female,Furniture,Education,Nevada,2023,August
+Tim,2024-09-02 06:52:03,397.1180357142854,3626.333333333334,3.0,Male,Office Supplies,Home Decor,Illinois,2024,September
+Stacy,2023-04-06 00:45:25,543.0707142857142,3214.7344444444443,9.0,Male,Clothing,Supplies,Illinois,2023,April
+Maria,2024-08-26 02:12:56,543.0707142857142,3214.7344444444443,9.0,Female,Office Supplies,Electronics,Illinois,2024,August
+Kevin,2022-11-22 14:52:14,543.0707142857142,3626.333333333334,9.0,Female,Books,Home Decor,New York,2022,November
+April,2024-06-16 15:10:59,397.1180357142854,3214.7344444444443,16.75,Male,Books,Electronics,Ohio,2024,June
+David,2024-11-09 10:46:41,543.0707142857142,3214.7344444444443,9.0,Female,Technology,Electronics,Florida,2024,November
+Cindy,2025-02-27 15:20:36,543.0707142857142,2899.1177777777775,4.0,Male,Furniture,Electronics,Illinois,2025,February
+David,2023-06-07 23:53:02,543.0707142857142,3626.333333333334,9.0,Male,Clothing,Supplies,Ohio,2023,June
+Amber,2022-12-12 12:47:31,425.8,3214.7344444444443,4.0,Female,Office Supplies,Supplies,Nevada,2022,December
+Lauren,2023-01-15 08:38:07,558.57,3626.333333333334,9.0,Male,Furniture,Electronics,Illinois,2023,January
+Paul,2024-09-23 13:43:02,780.2,2899.1177777777775,16.75,Female,Books,Fashion,Florida,2024,September
+Dustin,2023-03-07 11:31:05,397.1180357142854,3145.14,11.0,Male,Furniture,Education,Ohio,2023,March
+Peggy,2022-09-06 02:51:40,543.0707142857142,3214.7344444444443,9.0,Male,Office Supplies,Supplies,Illinois,2022,September
